@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SUBHODIP DAS</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="200" src="https://media.licdn.com/dms/image/v2/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674937953?e=1730937600&v=beta&t=tHidbS2hqcqXS5CgncfLAmLCT1Lok6GZURuGMFCfK3U">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itssd10&label=Profile%20views&color=0e75b6&style=flat" alt="itssd10" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itssd10&label=Profile%20views&color=0e75b6&style=flat" alt="itssd10" /> </p>
+<img align="right" alt="coding" width="200" src="https://media.licdn.com/dms/image/v2/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674937953?e=1730937600&v=beta&t=tHidbS2hqcqXS5CgncfLAmLCT1Lok6GZURuGMFCfK3U">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itssd10" alt="itssd10" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/i_subhodip" target="blank"><img src="https://img.shields.io/twitter/follow/i_subhodip?logo=twitter&style=for-the-badge" alt="i_subhodip" /></a> </p>
