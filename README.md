@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SUBHODIP DAS</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="[[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif]](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fcto-use-case-4-senior-software-engineer-flave-boulouma-cto--9hojf&psig=AOvVaw2ljlfmOkNTMQbFJfGUIAYi&ust=1725691331571000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiqiq3brYgDFQAAAAAdAAAAABAK)">
+<img align="right" alt="coding" width="400" src="![pc](https://github.com/user-attachments/assets/6fad7e3b-dd24-4674-ae39-6026964be136)">
 
 <p align="left"> <a href="https://twitter.com/i_subhodip" target="blank"><img src="https://img.shields.io/twitter/follow/i_subhodip?logo=twitter&style=for-the-badge" alt="i_subhodip" /></a> </p>
 
