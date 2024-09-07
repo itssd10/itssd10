@@ -18,7 +18,6 @@
 
 - 📫 How to reach me **subhodipsagar302@gmail.com**
 
-- 📄 Know about my experiences [https://pdf.ac/qKnL1](https://pdf.ac/qKnL1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
